@@ -14,6 +14,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-rojas-7417b41a3)
-[![HackTheBox](https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg)](https://app.hackthebox.com/users/2068572)
+[![HackTheBox](https://img.shields.io/badge/https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg)](https://app.hackthebox.com/users/2068572)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
